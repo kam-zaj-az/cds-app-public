@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "locale": "en_US.UTF-8",
+    "metadata": {
+      "appmode": "streamlit-app",
+      "entrypoint": "sliders"
+    },
+    "python": {
+      "version": "3.9.5",
+      "package_manager": {
+        "name": "pip",
+        "version": "24.2",
+        "package_file": "requirements.txt"
+      }
+    },
+    "files": {
+      "requirements.txt": {
+        "checksum": "3eb731e80d32f3d5f8fe99fb9e8d7c22"
+      }
+    }
+  }
